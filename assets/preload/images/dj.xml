@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dj.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="dj idle 00000000" x="906" y="1001" width="453" height="490" frameX="-60" frameY="-318" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00010000" x="906" y="501" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00020000" x="0" y="0" width="453" height="501" frameX="-60" frameY="-307" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00030000" x="453" y="1001" width="453" height="499" frameX="-60" frameY="-309" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00040000" x="1359" y="500" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00050000" x="1359" y="0" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00060000" x="453" y="0" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00070000" x="453" y="501" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00080000" x="0" y="501" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00090000" x="906" y="0" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00100000" x="0" y="1001" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj idle 00110000" x="453" y="501" width="453" height="500" frameX="-60" frameY="-308" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00000000" x="1812" y="925" width="453" height="460" frameX="-60" frameY="-348" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00010000" x="1812" y="0" width="453" height="463" frameX="-60" frameY="-345" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00020000" x="1812" y="463" width="453" height="462" frameX="-60" frameY="-346" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00030000" x="1359" y="1001" width="453" height="466" frameX="-60" frameY="-342" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00040000" x="1812" y="463" width="453" height="462" frameX="-60" frameY="-346" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00050000" x="1359" y="1001" width="453" height="466" frameX="-60" frameY="-342" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00060000" x="1812" y="463" width="453" height="462" frameX="-60" frameY="-346" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00070000" x="1359" y="1001" width="453" height="466" frameX="-60" frameY="-342" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00080000" x="1812" y="463" width="453" height="462" frameX="-60" frameY="-346" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00090000" x="1359" y="1001" width="453" height="466" frameX="-60" frameY="-342" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00100000" x="1812" y="463" width="453" height="462" frameX="-60" frameY="-346" frameWidth="700" frameHeight="950"/>
+	<SubTexture name="dj play 00110000" x="1359" y="1001" width="453" height="466" frameX="-60" frameY="-342" frameWidth="700" frameHeight="950"/>
+</TextureAtlas>
